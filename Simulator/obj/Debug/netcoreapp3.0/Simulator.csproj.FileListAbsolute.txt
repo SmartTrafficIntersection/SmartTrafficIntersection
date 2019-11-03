@@ -1,0 +1,8 @@
+D:\Projects\SmartTrafficIntersection\Simulator\bin\Debug\netcoreapp3.0\Simulator.deps.json
+D:\Projects\SmartTrafficIntersection\Simulator\bin\Debug\netcoreapp3.0\Simulator.dll
+D:\Projects\SmartTrafficIntersection\Simulator\bin\Debug\netcoreapp3.0\Simulator.pdb
+D:\Projects\SmartTrafficIntersection\Simulator\obj\Debug\netcoreapp3.0\Simulator.csprojAssemblyReference.cache
+D:\Projects\SmartTrafficIntersection\Simulator\obj\Debug\netcoreapp3.0\Simulator.AssemblyInfoInputs.cache
+D:\Projects\SmartTrafficIntersection\Simulator\obj\Debug\netcoreapp3.0\Simulator.AssemblyInfo.cs
+D:\Projects\SmartTrafficIntersection\Simulator\obj\Debug\netcoreapp3.0\Simulator.dll
+D:\Projects\SmartTrafficIntersection\Simulator\obj\Debug\netcoreapp3.0\Simulator.pdb
